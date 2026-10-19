@@ -1,4 +1,15 @@
+<div align="center">
+
+<img src="custom_components/blisslights/brand/logo.png" alt="BlissLights logo" width="260">
+
 # BlissLights Sky Lite — Home Assistant integration
+
+[![HACS](https://img.shields.io/badge/HACS-Custom%20Integration-41BDF5?logo=homeassistant&logoColor=white)](https://www.hacs.xyz/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
+</div>
+
+---
 
 A custom [Home Assistant](https://www.home-assistant.io/) integration for the
 **BlissLights Sky Lite** laser galaxy projector (and other devices built on the
